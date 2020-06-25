@@ -1,0 +1,122 @@
+.myButton {
+	
+	background-color:#163948;
+	border-radius:5px;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-family:Arial;
+	font-size:20px;
+	padding:5px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+	width :50%;
+	margin-top:5%;
+}
+.myButton:hover {
+
+	background-color:#DDADA6;
+	color: white;
+	text-decoration: none;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.myButtona {
+	
+	background-color:#163948;
+	border-radius:5px;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-family:Arial;
+	font-size:20px;
+	padding:5px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+	width :30%;
+	margin-top:10%;
+	margin-left:2%;
+	margin-right: 2%;
+}
+.myButtona:hover {
+
+	background-color:#DDADA6;
+	color: white;
+	text-decoration: none;
+}
+.myButtona:active {
+	position:relative;
+	top:1px;
+}
+
+.d {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	padding: 16px;
+	text-align: center;
+	background-color: #f1f1f1;
+	margin-left : 15%;
+	margin-right: 15%;
+	margin-top : 5%;
+	
+}
+.pa {
+	color:#163948;
+	font-size:large;
+	padding-top: 5%;
+}
+.myButtonx {
+	box-shadow: 3px 4px 0px 0px #899599;
+	background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+	background-color:#ededed;
+	border-radius:50%;
+	border:1px solid #b097b0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:20px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+	margin-top: 6%;
+	margin-bottom: 4%;
+}
+.myButtonx:hover {
+	background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+	background-color:#bab1ba;
+}
+.myButtonx:active {
+	position:relative;
+	top:1px;
+}
+.myButtony {
+	box-shadow: 3px 4px 0px 0px #899599;
+	background:linear-gradient(to bottom, #163948 5%, );
+	background-color:#163948;
+	border-radius:50%;
+	border:1px solid #b097b0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:20px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+	margin-top: 6%;
+	margin-bottom: 4%;
+}
+.myButtony:hover {
+	background:linear-gradient(to bottom, #DDADA6 5%);
+	background-color:#DDADA6;
+}
+.myButtony:active {
+	position:relative;
+	top:1px;
+}
+
+  
